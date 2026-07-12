@@ -1,0 +1,15 @@
+Project: SSH Brute Force Detector
+
+GitHub: https://github.com/RadiiYevstratov/ssh-bruteforce-detector
+
+What I learned
+
+WSL (Windows Subsystem for Linux): I set up a Linux environment on Windows and worked with real `auth.log` files. This project helped me improve my Linux command-line skills and become more comfortable navigating and analyzing log files.
+
+Python `sys` module: I learned how to execute Python programs from the terminal, work with command-line arguments, and improve my error handling by validating user input and handling exceptions.
+
+Git & GitHub: I strengthened my Git workflow by committing changes regularly, managing the repository, and using GitHub to track the project's development.
+
+Log parsing: I gained experience processing Linux authentication logs, extracting relevant information, and identifying failed SSH login attempts.
+
+Python fundamentals: I improved my understanding of file handling, dictionaries, sorting, functions, and working with structured data to generate meaningful reports from log files.
