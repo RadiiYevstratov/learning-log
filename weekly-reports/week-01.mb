@@ -2,7 +2,7 @@ Project: SSH Brute Force Detector
 
 GitHub: https://github.com/RadiiYevstratov/ssh-bruteforce-detector
 
-What I learned
+What I learned:
 
 WSL (Windows Subsystem for Linux): I set up a Linux environment on Windows and worked with real `auth.log` files. This project helped me improve my Linux command-line skills and become more comfortable navigating and analyzing log files.
 
